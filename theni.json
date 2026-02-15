@@ -1,0 +1,101 @@
+{
+  "district": "Theni",
+  "state": "Tamil Nadu",
+  "soil_data": [
+    {
+      "soil_type": "Red Loamy & Sandy Soil",
+      "region": "Plains",
+      "characteristics": {
+        "texture": "loamy_sandy",
+        "water_retention": "moderate",
+        "fertility": "moderate"
+      },
+      "suitable_crops": [
+        "Banana",
+        "Mango",
+        "Grapes",
+        "Coconut",
+        "Guava",
+        "Aonla",
+        "Bhendi",
+        "Tomato",
+        "Brinjal",
+        "Onion"
+      ],
+      "category": "dominant"
+    },
+    {
+      "soil_type": "Clayey and Alluvial Soil",
+      "region": "Vaigai River Valleys",
+      "characteristics": {
+        "texture": "clayey_alluvial",
+        "water_retention": "high",
+        "fertility": "high"
+      },
+      "suitable_crops": [
+        "Paddy",
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "category": "river_basin"
+    },
+    {
+      "soil_type": "Forest and Hill Soil",
+      "region": "Western Ghats (Megamalai)",
+      "characteristics": {
+        "texture": "forest",
+        "water_retention": "high",
+        "fertility": "rich_organic"
+      },
+      "suitable_crops": [
+        "Coffee",
+        "Tea",
+        "Cardamom",
+        "Pepper"
+      ],
+      "category": "hill_region"
+    },
+    {
+      "soil_type": "Dry Red Sandy Soil",
+      "region": "Andipatty / Dry Blocks",
+      "characteristics": {
+        "texture": "sandy",
+        "water_retention": "low",
+        "fertility": "low"
+      },
+      "suitable_crops": [
+        "Cotton",
+        "Groundnut",
+        "Millets"
+      ],
+      "category": "dry_region"
+    }
+  ],
+  "agricultural_features": {
+    "major_crops": [
+      "Banana",
+      "Grapes",
+      "Mango",
+      "Sugarcane",
+      "Paddy",
+      "Coconut"
+    ],
+    "horticulture": {
+      "fruits": [
+        "Grapes",
+        "Banana"
+      ],
+      "spices": [
+        "Cardamom"
+      ],
+      "description": "High productivity horticulture region"
+    },
+    "irrigation": {
+      "primary_sources": [
+        "Open Wells",
+        "Canal Irrigation (Vaigai River)"
+      ],
+      "type": "well_and_canal_based"
+    }
+  }
+}
